@@ -1,0 +1,32 @@
+html body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+center{
+    padding-top: 10px;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2024/01/04/15/42/sailing-8487722_1280.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h3{
+   
+    color: black;
+    font-size: 30px;
+}
+input{
+    border: 6px;
+    border-radius: 6px 12px 6px 12px;
+    box-sizing: border-box;
+    border-color: black;
+}
+.a button{
+    text-decoration: none;
+    transform: rotate(margin-left , margin);
+
+}
+.a  :hover{
+text-decoration: none;
+transform: scale(1.5);
+}

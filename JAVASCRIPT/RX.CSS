@@ -1,0 +1,47 @@
+html.body{
+margin: 0px;
+padding: 0px;
+}
+nav li{
+    display: inline;
+    margin-left: 150px;
+}
+nav a{
+   text-decoration: none;
+    color: hwb(236 7% 25%);
+    font-size: 20px;
+}
+nav{
+    padding-top: 20px;
+}
+
+.banner{
+    height: 500px;
+    background-image:url(https://cdn.pixabay.com/photo/2018/06/30/09/31/background-image-3507320_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn{
+    background-color: rgb(18, 169, 18);
+    padding: 7px 5px 7px 5px;
+    border: green 1px solid;
+    border-radius:20px ;
+}
+.btn :hover{
+    background-color: rgb(8, 154, 130);
+}
+.context{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+.context h1
+{
+    font-size: 30px;
+
+}

@@ -1,0 +1,18 @@
+html.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+}
+label{
+    align-items: center;
+    justify-content: center;
+    
+}
+input{
+    border: 0px;
+    text-decoration: dashed;
+    border-radius: 20px 4px 20px 4px;
+    justify-content: center;
+    align-items: center;
+
+}

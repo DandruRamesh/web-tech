@@ -1,0 +1,112 @@
+html .body
+{
+margin: 0px;
+padding: 0px;
+}
+nav li{
+    display: inline;
+margin-left: 60px;
+}
+nav a{
+    text-decoration: none;
+    color: hwb(0 4% 53%);
+    font-size: 17px;
+}
+nav a:hover
+{
+color: rgb(241, 66, 66);
+text-decoration:  red 1px solid;
+}
+nav{
+    padding-top: 10px;
+}
+nav li input{
+   height: 25px;
+   width: 300px;
+   border-radius: 5px 12px 5px 12px;
+   border-style: calc( no-repeat);
+
+}
+ nav li img{
+   height: 40px;
+   width: 25px;
+ }
+
+
+
+
+.banner{
+    height: 1000px;
+    background-image: url(https://images.pexels.com/photos/3694711/pexels-photo-3694711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+ .content button{
+    border: 2px;
+    border-radius: 12px 5px 12px 5px;
+   border-style: none;
+
+ }
+ .offers label{
+    color: black;
+    padding-top: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+ }
+
+ .card{
+   justify-content: center;
+   align-items: center; 
+ }
+ .card li{
+    display: inline-flex;
+    text-decoration: none;
+    margin-left: 2px;
+ }
+ .card a{
+ color: brown;
+    text-decoration: none;
+
+ }
+ .card a:hover{
+    color: hwb(120 2% 97%);
+ }
+ .card center{
+    font-size: 14px;
+ }
+
+ .card img{
+    height: 150px;
+    width: 90px;   
+    border: 16px;
+  border-style: hidden;
+    border-radius:12px 10px 12px 10px;
+    margin-left: 15px;
+ }
+ .card h1{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 2px;
+ }
+ h1{
+    color: black;
+    margin-left: 30px;
+    font-size: 30px;
+ }
+ .menu-imgg{
+  justify-content: center;
+   align-items: center;
+  
+ }
+ .imgg{
+justify-content: center;
+display: inline;
+margin-left: 20px;
+
+ }
+ .imgg1{
+   height: 30px;
+   width: 20px;
+   border: 80px;
+   border-radius: 12px 5px 12px 5px;
+ }
